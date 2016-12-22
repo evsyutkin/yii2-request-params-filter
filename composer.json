@@ -6,9 +6,9 @@
         "yii2",
         "seo",
         "request",
-		"params",
-		"filter",
-		"behavior"
+        "params",
+        "filter",
+        "behavior"
     ],
     "homepage": "https://github.com/evsyutkin/yii2-request-params-filter",
     "authors": [
@@ -23,7 +23,7 @@
         "source": "https://github.com/evsyutkin/yii2-request-params-filter"
     },
     "require": {
-        "yiisoft/yii2": "~2",
+        "yiisoft/yii2": "~2"
     },
     "autoload": {
         "psr-4": {
