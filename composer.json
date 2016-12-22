@@ -1,0 +1,33 @@
+{
+    "name": "evsyutkin/yii2-request-params-filter",
+    "description": "Yii2 request params filter",
+    "type": "yii2-extension",
+    "keywords": [
+        "yii2",
+        "seo",
+        "request",
+		"params",
+		"filter",
+		"behavior"
+    ],
+    "homepage": "https://github.com/evsyutkin/yii2-request-params-filter",
+    "authors": [
+        {
+            "name": "Andrey Evsyutkin",
+            "email": "andrey@evsyutkin.ru",
+            "role": "Developer"
+        }
+    ],
+    "support": {
+        "issues": "https://github.com/evsyutkin/yii2-request-params-filter/issues",
+        "source": "https://github.com/evsyutkin/yii2-request-params-filter"
+    },
+    "require": {
+        "yiisoft/yii2": "~2",
+    },
+    "autoload": {
+        "psr-4": {
+            "evsyutkin\\yii\\behaviors\\": ""
+        }
+    }
+}
